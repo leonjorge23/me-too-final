@@ -1,0 +1,27 @@
+.mt-10 {
+  margin-top: 10px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.signin {
+  margin-top: 60px;
+}
+.form-signin input {
+  margin-bottom: 10px;
+}
+span.error-message {
+  margin-top: 10px;
+  display: inline-block;
+  color: #ff0000;
+
+}
+.register-link {
+  display: block;
+}
+.main-content {
+  margin-top: 60px;
+}
+.me-tool .navbar-inverse .navbar-brand {
+  color: #fff!important;
+}
